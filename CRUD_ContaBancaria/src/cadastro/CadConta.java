@@ -434,11 +434,11 @@ public class CadConta extends javax.swing.JFrame {
     }//GEN-LAST:event_botaoExcluirActionPerformed
 
     private void tbdataActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_tbdataActionPerformed
-        // TODO add your handling code here:
+        
     }//GEN-LAST:event_tbdataActionPerformed
 
     private void fielddepositoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_fielddepositoActionPerformed
-        // TODO add your handling code here:
+        
     }//GEN-LAST:event_fielddepositoActionPerformed
 
     private void transfereActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_transfereActionPerformed
@@ -512,15 +512,15 @@ public class CadConta extends javax.swing.JFrame {
     }//GEN-LAST:event_btpesquisaActionPerformed
 
     private void btbuscaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btbuscaActionPerformed
-        // TODO add your handling code here:
+        
     }//GEN-LAST:event_btbuscaActionPerformed
 
     private void decontaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_decontaActionPerformed
-        // TODO add your handling code here:
+        
     }//GEN-LAST:event_decontaActionPerformed
 
     private void btvalorActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btvalorActionPerformed
-        // TODO add your handling code here:
+        
     }//GEN-LAST:event_btvalorActionPerformed
 
 
